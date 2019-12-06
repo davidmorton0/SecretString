@@ -1,6 +1,7 @@
 # SecretString
 
 Solution for Codewars problem: Secret String - 4 kyu
+
 First solution (secret_string.js) and refactored solution (secret_string_2.js)
 
 Details:
